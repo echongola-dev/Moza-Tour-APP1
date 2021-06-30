@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Moza-Tour</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="locais">Locais</string>
+    <string name="configura_es">Configurações</string>
+    <string name="favoritos">Favoritos</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation">
+
+    <fragment
+        android:id="@+id/navigation_local"
+        android:label="Locais"
+        tools:layout="@layout/fragment_local" />
+
+    <fragment
+        android:id="@+id/navigation_favorito"
+        android:label="@string/favoritos"
+        tools:layout="@layout/fragment_favorito" />
+
+    <fragment
+        android:id="@+id/navigation_configuracoes"
+        android:label="Configuracoes"
+        tools:layout="@layout/fragment_settings" />
+
+</navigation>

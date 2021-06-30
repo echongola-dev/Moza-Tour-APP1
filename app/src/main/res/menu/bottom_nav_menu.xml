@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_local"
+        android:icon="@drawable/ic_local"
+        android:title="@string/locais" />
+
+    <item
+        android:id="@+id/ic_favorito"
+        android:icon="@drawable/ic_favorito"
+        android:title="@string/favoritos" />
+
+    <item
+        android:id="@+id/ic_configuracoes"
+        android:icon="@drawable/ic_configuracoes"
+        android:title="@string/configura_es"
+        tools:ignore="HardcodedText" />
+
+</menu>
